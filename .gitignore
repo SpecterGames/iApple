@@ -130,4 +130,10 @@ dmypy.json
 
 *.db
 *.db-journal
-/lib/bot/token.0
+./lib/bot/token.0
+
+.replit
+.breakpoints
+./poetry.lock
+./pyproject.toml
+./replit.nix
